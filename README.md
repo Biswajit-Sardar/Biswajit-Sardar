@@ -11,27 +11,29 @@
 </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00D9F5,100:7F00FF&height=220&section=header&text=Biswajit%20Sardar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20focused%20on%20web,%20machine%20learning,%20and%20data%20science&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00D9F5,100:7F00FF&height=220&section=header&text=Biswajit%20Sardar&fontSize=45&fontColor=ffffff&animation=twinkling&reversal=true&fontAlignY=38&desc=Developer%20focused%20on%20web,%20machine%20learning,%20and%20data%20science&descAlignY=60&descAlign=50" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-💻 Web Developer passionate about building modern applications  
-🤖 Exploring Machine Learning & AI innovations  
-📊 Data Science enthusiast solving real-world problems  
-🚀 Always learning new technologies and improving skills  
+I'm **Biswajit Sardar**, a results-driven **Full-Stack Developer, Data Scientist, and AI & LLM Practitioner** passionate about turning complex challenges into intelligent, real-world solutions.
+
+With **3+ years of hands-on experience** and **35+ delivered projects**, I build scalable, efficient systems aligned with real user needs and business goals.
+
+I thrive where technology, data, and innovation meet to create measurable impact.
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,sql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,mysql,opencv,pycharm,powershell" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,word,excel,powerpoint" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="48" alt="Power BI"/>
 </p>
 
----
 
 ## 🌐 Connect With Me
 
@@ -50,7 +52,7 @@
 </p>
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -65,7 +67,7 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Biswajit-Sardar&theme=algolia&no-frame=true&row=1&column=7" />
 </p>
-
+-->
 ---
 
 ## 🔥 Contribution Streak
@@ -75,7 +77,7 @@
 </p>
 
 ---
-
+<!--
 ## 🐍 Snake Contribution Animation
 
 <p align="center">
@@ -99,9 +101,9 @@
 </p>
 
 ---
-
+<!--
 ## 🎨 Glowing Footer Banner
-
+-->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00D9F5,100:00F5A0&height=150&section=footer"/>
 </p>
