@@ -103,7 +103,7 @@ I thrive where technology, data, and innovation meet to create measurable impact
 ---
 <!--
 ## 🎨 Glowing Footer Banner
--->
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00D9F5,100:00F5A0&height=150&section=footer"/>
-</p>
+</p>-->
