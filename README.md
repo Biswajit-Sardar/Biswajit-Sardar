@@ -14,17 +14,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00D9F5,100:7F00FF&height=220&section=header&text=Biswajit%20Sardar&fontSize=45&fontColor=ffffff&animation=twinkling&reversal=true&fontAlignY=38&desc=Developer%20focused%20on%20web,%20machine%20learning,%20and%20data%20science&descAlignY=60&descAlign=50" />
 </p>
 
-<!--## 🌟 About Me
-
-I'm **Biswajit Sardar**, a results-driven **Full-Stack Developer, Data Scientist, and AI & LLM Practitioner** passionate about turning complex challenges into intelligent, real-world solutions.
-
-With **3+ years of hands-on experience** and **35+ delivered projects**, I build scalable, efficient systems aligned with real user needs and business goals.
-
-I thrive where technology, data, and innovation meet to create measurable impact.
-
----
-
-## 🚀 Tech Stack
 -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,react,mysql,opencv,pycharm,powershell" />
@@ -50,24 +39,16 @@ I thrive where technology, data, and innovation meet to create measurable impact
 </p>
 
 ---
-<!--
-## 📈 GitHub Stats
 
+ <!-- 📈 GitHub Stats-->
+##
+##
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biswajit-Sardar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajit-Sardar&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Biswajit-Sardar&theme=algolia&no-frame=true&row=1&column=7" />
-</p>
--->
----
-
  <!--🔥 Contribution Streak-->
 ##
 <p align="center">
