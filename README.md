@@ -14,7 +14,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00D9F5,100:7F00FF&height=220&section=header&text=Biswajit%20Sardar&fontSize=45&fontColor=ffffff&animation=twinkling&reversal=true&fontAlignY=38&desc=Developer%20focused%20on%20web,%20machine%20learning,%20and%20data%20science&descAlignY=60&descAlign=50" />
 </p>
 
--->
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,react,mysql,opencv,pycharm,powershell" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,word,excel,powerpoint" />
@@ -52,18 +52,17 @@
 ##
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Biswajit-Sardar&theme=tokyonight&hide_border=true" />
-</p>       sab guloke pasa pasi kore dao
+</p>    
 ---
-<!--
-## 🐍 Snake Contribution Animation
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Biswajit-Sardar/Biswajit-Sardar/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
+<!--
 ---
 -->
-## 👀 Visitor Counter
+<!--
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Biswajit-Sardar&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
