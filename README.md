@@ -33,7 +33,7 @@ I thrive where technology, data, and innovation meet to create measurable impact
 </p>
 
 
-## 🌐 Connect With Me
+## 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/biswajit-sardar-b9aa36303" target="_blank">
