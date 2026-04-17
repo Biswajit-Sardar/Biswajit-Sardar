@@ -68,7 +68,7 @@
 <h2 align="center">🔥 Contribution</h2>
 
 <p align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=Biswajit-Sardar&theme=tokyonight&hide_border=true"/>
+  <img width="100%" height="260px" src="https://streak-stats.demolab.com?user=Biswajit-Sardar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
