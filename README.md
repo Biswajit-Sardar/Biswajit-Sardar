@@ -47,22 +47,10 @@
 </p>
 
 ---
- <!--🔥 Contribution Streak-->
 ##
 <p align="center">
   <img height="150" src="https://streak-stats.demolab.com?user=Biswajit-Sardar&theme=tokyonight&hide_border=true" />
-</p>   
-
-<!--
-<p align="center">
-<img src="https://raw.githubusercontent.com/Biswajit-Sardar/Biswajit-Sardar/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-<!--
-
--->
-<!--
-<!--
-<!--
+</p> 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Biswajit-Sardar&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
