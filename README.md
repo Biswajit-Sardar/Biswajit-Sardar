@@ -69,35 +69,42 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00D9F5,100:00F5A0&height=150&section=footer"/>
 </p>-->
 
-
+<!--
 <h2 align="left">📊 GitHub Dashboard</h2>
+--><h2 align="center">📊 GitHub Dashboard</h2>
+
+<table align="center">
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biswajit-Sardar&theme=tokyonight"/>
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Biswajit-Sardar&theme=tokyonight&utcOffset=5.5"/>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajit-Sardar&theme=tokyonight"/>
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajit-Sardar&theme=tokyonight"/>
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🔥 Contribution</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajit-Sardar&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biswajit-Sardar&theme=tokyonight" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Biswajit-Sardar&theme=tokyonight&utcOffset=5.5" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajit-Sardar&theme=tokyonight" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajit-Sardar&theme=tokyonight" height="170"/>
+  <img width="90%" src="https://streak-stats.demolab.com?user=Biswajit-Sardar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<h2 align="left">🔥 Contribution Stats</h2>
+<h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Biswajit-Sardar&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-<h2 align="left">🚀 Extra Cool Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajit-Sardar&theme=tokyo-night&hide_border=true"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajit-Sardar&theme=tokyo-night&hide_border=true"/>
 </p>
