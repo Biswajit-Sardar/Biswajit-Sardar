@@ -15,9 +15,9 @@
 </p>
 
 ---
-
+<!--
 <h2 align="center">⚡ Tech Stack</h2>
-
+-->
 <p align="center">
   <!-- skillicons -->
   <img src="https://skillicons.dev/icons?i=html,css,js,python,react,mysql,opencv,pycharm,powershell" />
@@ -29,9 +29,9 @@
 </p>
 
 ---
-
+<!--
 <h2 align="center">🌐 Connect with Me</h2>
-
+-->
 <p align="center">
 <a href="https://www.linkedin.com/in/biswajit-sardar-b9aa36303" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
@@ -49,9 +49,9 @@
 ---
 
 
-
+<!--
 <h2 align="center">📈 GitHub Summary</h2>
-
+-->
 <p align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajit-Sardar&theme=tokyonight" />
 </p>
@@ -67,17 +67,17 @@
 </p>
 
 ---
-
+<!--
 <h2 align="center">🔥 Contribution</h2>
-
+-->
 <p align="center">
   <img width="100%" height="260px" src="https://streak-stats.demolab.com?user=Biswajit-Sardar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
-
+<!--
 <h2 align="center">📈 Activity Graph</h2>
-
+-->
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajit-Sardar&theme=tokyo-night&hide_border=true"/>
 </p>
