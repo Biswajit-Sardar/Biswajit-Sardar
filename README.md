@@ -71,7 +71,10 @@
 
 <!--
 <h2 align="left">📊 GitHub Dashboard</h2>
---><h2 align="center">📊 GitHub Dashboard</h2>
+<h2 align="center">📊 GitHub Dashboard</h2>-->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajit-Sardar&theme=tokyonight" />
+</p>
 
 <table align="center">
 <tr>
