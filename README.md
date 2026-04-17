@@ -45,9 +45,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biswajit-Sardar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajit-Sardar&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
-##
 <p align="center">
   <img height="150" src="https://streak-stats.demolab.com?user=Biswajit-Sardar&theme=tokyonight&hide_border=true" />
 </p> 
