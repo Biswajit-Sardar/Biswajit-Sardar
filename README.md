@@ -19,10 +19,13 @@
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
+  <!-- skillicons -->
   <img src="https://skillicons.dev/icons?i=html,css,js,python,react,mysql,opencv,pycharm,powershell" />
-  <br/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,word,excel,powerpoint" />
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="48"/>
+  
+  <!-- extra icons -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
 </p>
 
 ---
