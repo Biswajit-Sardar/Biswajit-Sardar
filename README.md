@@ -50,8 +50,9 @@
  <!--🔥 Contribution Streak-->
 ##
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Biswajit-Sardar&theme=tokyonight&hide_border=true" />
-</p>    
+  <img height="150" src="https://streak-stats.demolab.com?user=Biswajit-Sardar&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://komarev.com/ghpvc/?username=Biswajit-Sardar&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>   
 
 <!--
 <p align="center">
