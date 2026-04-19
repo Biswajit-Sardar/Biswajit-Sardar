@@ -43,8 +43,6 @@
   
 </p>
 
-
-
 <!--
 <h2 align="center">🌐 Connect with Me</h2>
 -->
@@ -56,12 +54,17 @@
 
 
 
+
+
+
+
+
 <p align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Biswajit-Sardar&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biswajit-Sardar&theme=tokyonight"/>
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Biswajit-Sardar&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
@@ -78,7 +81,8 @@
 <h2 align="center">🔥 Contribution</h2>
 -->
 <p align="center">
-  <img width="100%" height="260px" src="https://streak-stats.demolab.com?user=Biswajit-Sardar&theme=tokyonight&hide_border=true"/>
+  <img width="50%" height="260px" src="https://streak-stats.demolab.com?user=Biswajit-Sardar&theme=tokyonight&hide_border=true"/>
+  <img width="33.3%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biswajit-Sardar&theme=tokyonight"/>
 </p>
 ---
 <!--
@@ -86,6 +90,7 @@
 -->
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajit-Sardar&theme=tokyo-night&hide_border=true"/>
+  
 </p>
 
 ---
