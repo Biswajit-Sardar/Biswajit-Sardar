@@ -12,6 +12,20 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00D9F5,100:7F00FF&height=220&section=header&text=Biswajit%20Sardar&fontSize=45&fontColor=ffffff&animation=twinkling&reversal=true&fontAlignY=38&desc=Developer%20focused%20on%20web,%20machine%20learning,%20and%20data%20science&descAlignY=60&descAlign=50" />
+
+  <p align="center">
+<a href="https://www.linkedin.com/in/biswajit-sardar-b9aa36303" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/Biswajit-Sardar" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://portbis.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/[Portfolio-Visit-success?style=for-the-badge&logo=vercel](https://portbis.vercel.app/)" />
+</a>
+</p>
 </p>
 
 ---
@@ -33,23 +47,6 @@
 <!--
 <h2 align="center">🌐 Connect with Me</h2>
 -->
-<p align="center">
-<a href="https://www.linkedin.com/in/biswajit-sardar-b9aa36303" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://github.com/Biswajit-Sardar" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://portbis.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/[Portfolio-Visit-success?style=for-the-badge&logo=vercel](https://portbis.vercel.app/)" />
-</a>
-</p>
-
----
-
-
 <!--
 <h2 align="center">📈 GitHub Summary</h2>
 -->
