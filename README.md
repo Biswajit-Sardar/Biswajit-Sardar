@@ -25,10 +25,10 @@
 <a href="https://portbis.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/[Portfolio-Visit-success?style=for-the-badge&logo=vercel](https://portbis.vercel.app/)" />
 </a>
-</p>
-</p>
-
 ---
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajit-Sardar&theme=tokyo-night&hide_border=true"/>
+</p>
 <!--
 <h2 align="center">⚡ Tech Stack</h2>
 -->
@@ -90,7 +90,6 @@
 -->
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajit-Sardar&theme=tokyo-night&hide_border=true"/>
-  
 </p>
 
 ---
