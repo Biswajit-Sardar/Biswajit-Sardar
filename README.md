@@ -73,7 +73,6 @@
 <p align="center">
   <img width="100%" height="260px" src="https://streak-stats.demolab.com?user=Biswajit-Sardar&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 <!--
 <h2 align="center">📈 Activity Graph</h2>
