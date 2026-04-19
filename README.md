@@ -66,12 +66,13 @@
 
 <p align="center">
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Biswajit-Sardar&theme=tokyonight&utcOffset=5.5"/>
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Biswajit-Sardar&theme=tokyonight&utcOffset=5.5"/>
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajit-Sardar&theme=tokyonight"/>
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajit-Sardar&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Biswajit-Sardar&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Biswajit-Sardar&theme=tokyonight"/>
+
 </p>
 
 
