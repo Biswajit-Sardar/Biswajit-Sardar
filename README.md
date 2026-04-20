@@ -32,7 +32,7 @@
 -->
 <p align="center">
   <!-- skillicons -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,mysql,opencv,pycharm,powershell" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,mysql,opencv,powershell" />
   
   <!-- extra icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
