@@ -89,9 +89,7 @@
 <!--
 <h2 align="center">📈 Activity Graph</h2>
 -->
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajit-Sardar&theme=tokyo-night&hide_border=true"/>
-</p>
+>
 
 <!--
 <h2 align="center">✨ Quote</h2>
