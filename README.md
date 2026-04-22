@@ -55,6 +55,8 @@
 
 <!-- Stats -->
 <p align="center">
-  <img width="50%" height="260px" src="https://streak-stats.demolab.com?user=Biswajit-Sardar&theme=tokyonight&hide_border=true"/>
-  <img width="33.3%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biswajit-Sardar&theme=tokyonight"/>
+  <img width="55%" src="https://streak-stats.demolab.com?user=Biswajit-Sardar&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img width="37%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Biswajit-Sardar&theme=tokyonight"/>
+  
 </p>
+
