@@ -38,9 +38,12 @@
 </p>
 
 <!-- Activity Graph -->
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajit-Sardar&theme=tokyo-night&hide_border=true"/>
-</p>
+<div align="center" style="background: linear-gradient(145deg, #0d1117, #111827); padding: 15px; border-radius: 15px; box-shadow: 0 0 20px rgba(0,247,255,0.4);">
+  
+  <img width="95%" 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajit-Sardar&theme=tokyo-night&hide_border=true&area=true&radius=10&custom_title=🚀%20My%20GitHub%20Journey&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff"/>
+       
+</div>
 
 <!-- Summary -->
 <p align="center">
