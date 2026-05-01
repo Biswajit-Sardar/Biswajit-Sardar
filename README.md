@@ -1,7 +1,6 @@
 <!-- ========================= -->
 <!--      GitHub Profile       -->
 <!-- ========================= -->
-
 <h1 align="center">
   Hi 👋, I'm Biswajit Sardar
 </h1>
